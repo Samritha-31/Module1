@@ -25,3 +25,4 @@ else:
 <img width="390" height="315" alt="1" src="https://github.com/user-attachments/assets/b56cc56b-b48e-4eeb-8c24-245955c88c67" />
 
 ## Result
+Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
