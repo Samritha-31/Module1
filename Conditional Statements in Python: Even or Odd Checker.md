@@ -22,4 +22,6 @@ else:
 
 ## Output
 
+<img width="390" height="315" alt="1" src="https://github.com/user-attachments/assets/b56cc56b-b48e-4eeb-8c24-245955c88c67" />
+
 ## Result
