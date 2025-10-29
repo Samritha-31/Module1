@@ -1,5 +1,5 @@
 # PYTHON PROGRAMMMING MODULE 1
-### DATE: 21.10.25
+### DATE: 06.09.25
 # Ex 01-A: Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
